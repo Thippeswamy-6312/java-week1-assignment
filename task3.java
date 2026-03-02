@@ -8,7 +8,7 @@ class UserMainCode {
         }
         if (rev == temp) return 1;
         return 2;
-    }
+    } 
 }
 
 public class task3 {
